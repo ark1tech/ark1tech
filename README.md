@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arki 😼</h1>
 <h3 align="center">An aspiring web developer specializing in front end development.</h3>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on my **Personal Website**
 
 - 🌱 I’m currently learning **MERN Stack**
 
