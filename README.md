@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Java, C, JavaScript**
 
-- 📫 How to reach me: **rbmanago1@up.edu.ph**
-
 - 😼 Fun fact: **I love cats!**
 
 <h3 align="left">Languages and Tools:</h3>
