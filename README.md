@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Arki.</h1>
+<h1 align="center">Hola, I'm Arki.</h1>
 <h3 align="center">An agile self-taught web developer specializing in front end development.</h3>
-<p align="center"> Connect with me: 
+<p align="center">
 <a href="https://twitter.com/ark1tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ark1tech" height="15" width="20" /></a>
 <a href="https://linkedin.com/in/ark1tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ark1tech" height="15" width="20" /></a>
 </p>
 
-> 🔭 I’m currently working on my **Personal Website**
+- 🔭 I’m currently working on my **Personal Website**
 
-> 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
-> 💬 Ask me about **Java, C, JavaScript**
+- 💬 Ask me about **Java, C, JavaScript**
 
-> 📫 How to reach me: **rbmanago1@up.edu.ph**
+- 📫 How to reach me: **rbmanago1@up.edu.ph**
 
-> 😼 Fun fact: **I love cats!**
+- 😼 Fun fact: **I love cats!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
