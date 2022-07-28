@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **CSS, JavaScript, Java, C**
 
-- 🤝 Looking to collaborate on hackathons, game development, and machine learning projects
+- 🤝 Looking to collaborate on **hackathons, game development, and machine learning projects**
 
 - 😼 Fun fact: **I love cats!**
 
