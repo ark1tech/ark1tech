@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arki</h1>
+<h1 align="center">Hi, I'm Arki 😼</h1>
 <h3 align="center">An aspiring web developer specializing in front end development.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ark1tech" alt="ark1tech" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Website**
 
