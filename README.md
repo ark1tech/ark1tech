@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arki 😼</h1>
+<h1 align="center">Hi, I'm Arki.</h1>
 <p align="center">
 <a href="https://twitter.com/ark1tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ark1tech" height="15" width="20" /></a>
 <a href="https://linkedin.com/in/ark1tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ark1tech" height="15" width="20" /></a>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **rbmanago1@up.edu.ph**
 
-- ⚡ Fun fact: **I love cats!**
+- 😼 Fun fact: **I love cats!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
