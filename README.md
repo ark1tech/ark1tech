@@ -40,4 +40,4 @@
 
 </br> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ark1tech&show_icons=true&locale=en&theme=radical" alt="ark1tech" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ark1tech&show_icons=true&locale=en&theme=gotham" alt="ark1tech" /></p>
