@@ -12,11 +12,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **CSS, JavaScript, Java, C**
-
 - 🤝 Looking to collaborate on **hackathons, game development, and machine learning projects**
 
-- 😼 Fun fact: **I love cats!**
+- 😼 I love cats!
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center "> 
