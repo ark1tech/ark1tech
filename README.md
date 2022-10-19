@@ -8,10 +8,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ark1tech&label=Profile%20views&color=0e75b6&style=flat" alt="ark1tech" /> </p> -->
 
-- 🔭 I’m currently working on my **Personal Website**
-
-- 🌱 I’m currently learning **MERN Stack**
-
 - 🤝 Looking to collaborate on **hackathons, game development, and machine learning projects**
 
 - 😼 I love cats!
