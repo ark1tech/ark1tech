@@ -7,10 +7,12 @@
 </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ark1tech&label=Profile%20views&color=0e75b6&style=flat" alt="ark1tech" /> </p> -->
-
+<! -- 
 - 🤝 Looking to collaborate on **hackathons, game development, and machine learning projects**
 
 - 😼 I love cats!
+
+-->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center "> 
