@@ -1,5 +1,5 @@
 <h3 align="center"">Hi, I'm <a href="https://arkimanago.com/" target="blank" style="color:#e65f32;">Arki</a>.</h3>
-<!-- <h3 align="center">An agile web developer specializing in front-end development.</h3> -->
+<p align="center">何かここに貼ってあるぞ。。笑</p>
 <p align="center">
 <a href="https://twitter.com/ark1tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ark1tech" height="15" width="20" /></a>
 <a href="https://fb.com/ark1desu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ark1desu" height="15" width="20" /></a>
